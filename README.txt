@@ -1,4 +1,4 @@
-http://localhost:8082/h  测试dubbo服务
-http://localhost:8082/health 监控
-http://localhost:8081/dubbo/online 上线
-http://localhost:8081/dubbo/offline 下线
+http://localhost:8082/h 聽娴嬭瘯dubbo鏈嶅姟
+http://localhost:8082/health 鐩戞帶
+http://localhost:8081/dubbo/online 涓婄嚎鏈嶅姟
+http://localhost:8081/dubbo/offline 涓嬬嚎鏈嶅姟
